@@ -80,4 +80,4 @@ Currently improving my skills and preparing for job opportunities in IT.
 
 ---
 
-![goodbye friend](goodbye-friend(bg).png)
+![goodbye friend](goodbye-friend-transparent-bg.png)
