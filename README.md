@@ -1,6 +1,6 @@
 <!-- HEADER / ASCII -->
 
-![hello, friend](hello-friend(bg).png)
+![hello, friend](hello-friend-transparent-bg.png)
 
 ### Intro 
 I'm **Nephilim**, a **beginner Frontend Developer** from **Uzbekistan** 🇺🇿  
