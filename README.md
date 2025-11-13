@@ -1,17 +1,10 @@
 <!-- HEADER / ASCII -->
 
 
-```
-██╗  ██╗███████╗██╗     ██╗      ██████╗        ███████╗██████╗ ██╗███████╗███╗   ██╗██████╗ 
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗       ██╔════╝██╔══██╗██║██╔════╝████╗  ██║██╔══██╗
-███████║█████╗  ██║     ██║     ██║   ██║       █████╗  ██████╔╝██║█████╗  ██╔██╗ ██║██║  ██║
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██╔══╝  ██╔══██╗██║██╔══╝  ██║╚██╗██║██║  ██║
-██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗    ██║     ██║  ██║██║███████╗██║ ╚████║██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ 
-```
+<img src='HELLO,FRIEND.png' style="width:100%">
 
 ### Intro 
-I'm **Murat**, a **beginner Frontend Developer** from **Uzbekistan** 🇺🇿  
+I'm **Nephilim**, a **beginner Frontend Developer** from **Uzbekistan** 🇺🇿  
 Currently improving my skills and preparing for job opportunities in IT.  
 
 
@@ -84,8 +77,8 @@ Currently improving my skills and preparing for job opportunities in IT.
 
 ### 💭 Quote
 
-> *"I code not for fame, but for mastery."*
-> *(or write your own one-liner later)*
+> *"Are you a one or a zero?"*
 
 ---
 
+<img scr="https://c4.wallpaperflare.com/wallpaper/117/187/808/quote-mr-robot-elliot-mr-robot-hd-wallpaper-preview.jpg">
