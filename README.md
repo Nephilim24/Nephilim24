@@ -1,7 +1,6 @@
 <!-- HEADER / ASCII -->
 
-
-<img src='HELLO,FRIEND.png' style="width:100%">
+![[hello-friend.png]]
 
 ### Intro 
 I'm **Nephilim**, a **beginner Frontend Developer** from **Uzbekistan** 🇺🇿  
@@ -81,4 +80,4 @@ Currently improving my skills and preparing for job opportunities in IT.
 
 ---
 
-<img scr="https://c4.wallpaperflare.com/wallpaper/117/187/808/quote-mr-robot-elliot-mr-robot-hd-wallpaper-preview.jpg">
+![[goodbye-friend.png]]
