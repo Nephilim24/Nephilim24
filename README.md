@@ -1,6 +1,6 @@
 <!-- HEADER / ASCII -->
 
-![[hello-friend.png]]
+![hello, friend](hello-friend(bg).png)
 
 ### Intro 
 I'm **Nephilim**, a **beginner Frontend Developer** from **Uzbekistan** 🇺🇿  
@@ -80,4 +80,4 @@ Currently improving my skills and preparing for job opportunities in IT.
 
 ---
 
-![[goodbye-friend.png]]
+![goodbye friend](goodbye-friend(bg).png)
