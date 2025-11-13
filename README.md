@@ -1,5 +1,3 @@
-<!-- HEADER / ASCII -->
-
 ![hello, friend](hello-friend-transparent-bg.png)
 
 ### Intro 
@@ -54,19 +52,17 @@ Currently improving my skills and preparing for job opportunities in IT.
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nephilim24&show_icons=true&theme=tokyonight" alt="Nephilim's GitHub stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nephilim24&theme=tokyonight" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nephilim24&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nephilim24&show_icons=true&bg_color=00000000&title_color=e0292b&text_color=a4aacb&icon_color=e0292b" alt="Nephilim's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nephilim24&show_icons=true&bg_color=00000000&title_color=e0292b&text_color=a4aacb&icon_color=e0292b&layout=compact" alt="Nephilim's Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nephilim24&background=00000000&border=898a8c&stroke=898a8c&ring=e0292b&fire=e0292b&currStreakLabel=e0292b&currStreakNum=a4aacb&sideNums=a4aacb&sideLabels=e0292b&dates=a4aacb" alt="Nephilim's GitHub Streak"/>
 </p>
 
 ---
 
-### 🤝 Contact Me
+### 🤝 Links
+
+💬 **Portfolio**: [Click here to visit my portfolio](https://nephilim-portfolio.vercel.app)
 
 📧 **Email:** muratacc21@gmail.com
 
